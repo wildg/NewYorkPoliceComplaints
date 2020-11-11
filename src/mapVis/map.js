@@ -29,9 +29,6 @@ function mapVis(data) {
         u.enter()
             .append('path')
             .attr('d', geoGenerator)
-            .style("fill", function(d) {
-                return color(rateById)
-            })
             .on("mouseover", function(d) {
                 d3.selectAll('path')
                     .style("opacity", 0.5);
