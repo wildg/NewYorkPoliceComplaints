@@ -1,4 +1,29 @@
 * {
     margin: 0;
     padding: 0;
+
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+#content .map path {
+    fill: lightgrey;
+    stroke: white;
+}
+
+.dflex-col {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.billboard-lg {
+    width: 100%;
+    height: 100vh;
 }

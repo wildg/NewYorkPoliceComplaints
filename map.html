@@ -36,5 +36,15 @@
 </head>
 <body>
 
+<div class="dflex-col billboard-lg" id="content">
+    <svg width="455px" height="600px">
+        <g class="map"></g>
+    </svg>
+</div>
+
+<script>
+    $.getJSON('./src/mapVis/PolicePrecincts.geojson', mapVis);
+</script>
+
 </body>
 </html>

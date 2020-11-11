@@ -1,0 +1,286 @@
+[
+  {
+    "precinct": 1,
+    "complaints": 11
+  },
+  {
+    "precinct": 5,
+    "complaints": 7
+  },
+  {
+    "precinct": 6,
+    "complaints": 3
+  },
+  {
+    "precinct": 7,
+    "complaints": 16
+  },
+  {
+    "precinct": 9,
+    "complaints": 17
+  },
+  {
+    "precinct": 10,
+    "complaints": 1
+  },
+  {
+    "precinct": 13,
+    "complaints": 15
+  },
+  {
+    "precinct": 14,
+    "complaints": 21
+  },
+  {
+    "precinct": 18,
+    "complaints": 27
+  },
+  {
+    "precinct": 19,
+    "complaints": 11
+  },
+  {
+    "precinct": 20,
+    "complaints": 4
+  },
+  {
+    "precinct": 23,
+    "complaints": 9
+  },
+  {
+    "precinct": 24,
+    "complaints": 6
+  },
+  {
+    "precinct": 25,
+    "complaints": 33
+  },
+  {
+    "precinct": 26,
+    "complaints": 9
+  },
+  {
+    "precinct": 28,
+    "complaints": 4
+  },
+  {
+    "precinct": 30,
+    "complaints": 10
+  },
+  {
+    "precinct": 32,
+    "complaints": 12
+  },
+  {
+    "precinct": 33,
+    "complaints": 8
+  },
+  {
+    "precinct": 34,
+    "complaints": 27
+  },
+  {
+    "precinct": 40,
+    "complaints": 53
+  },
+  {
+    "precinct": 42,
+    "complaints": 38
+  },
+  {
+    "precinct": 43,
+    "complaints": 39
+  },
+  {
+    "precinct": 44,
+    "complaints": 57
+  },
+  {
+    "precinct": 45,
+    "complaints": 3
+  },
+  {
+    "precinct": 46,
+    "complaints": 36
+  },
+  {
+    "precinct": 47,
+    "complaints": 59
+  },
+  {
+    "precinct": 48,
+    "complaints": 87
+  },
+  {
+    "precinct": 49,
+    "complaints": 11
+  },
+  {
+    "precinct": 50,
+    "complaints": 21
+  },
+  {
+    "precinct": 52,
+    "complaints": 37
+  },
+  {
+    "precinct": 60,
+    "complaints": 30
+  },
+  {
+    "precinct": 61,
+    "complaints": 6
+  },
+  {
+    "precinct": 62,
+    "complaints": 16
+  },
+  {
+    "precinct": 63,
+    "complaints": 22
+  },
+  {
+    "precinct": 67,
+    "complaints": 69
+  },
+  {
+    "precinct": 68,
+    "complaints": 7
+  },
+  {
+    "precinct": 69,
+    "complaints": 26
+  },
+  {
+    "precinct": 70,
+    "complaints": 35
+  },
+  {
+    "precinct": 71,
+    "complaints": 35
+  },
+  {
+    "precinct": 72,
+    "complaints": 12
+  },
+  {
+    "precinct": 73,
+    "complaints": 89
+  },
+  {
+    "precinct": 75,
+    "complaints": 86
+  },
+  {
+    "precinct": 76,
+    "complaints": 9
+  },
+  {
+    "precinct": 77,
+    "complaints": 49
+  },
+  {
+    "precinct": 78,
+    "complaints": 19
+  },
+  {
+    "precinct": 79,
+    "complaints": 34
+  },
+  {
+    "precinct": 81,
+    "complaints": 40
+  },
+  {
+    "precinct": 83,
+    "complaints": 3
+  },
+  {
+    "precinct": 84,
+    "complaints": 1
+  },
+  {
+    "precinct": 88,
+    "complaints": 6
+  },
+  {
+    "precinct": 90,
+    "complaints": 72
+  },
+  {
+    "precinct": 94,
+    "complaints": 7
+  },
+  {
+    "precinct": 101,
+    "complaints": 7
+  },
+  {
+    "precinct": 102,
+    "complaints": 12
+  },
+  {
+    "precinct": 103,
+    "complaints": 13
+  },
+  {
+    "precinct": 104,
+    "complaints": 17
+  },
+  {
+    "precinct": 105,
+    "complaints": 20
+  },
+  {
+    "precinct": 106,
+    "complaints": 5
+  },
+  {
+    "precinct": 107,
+    "complaints": 7
+  },
+  {
+    "precinct": 108,
+    "complaints": 2
+  },
+  {
+    "precinct": 109,
+    "complaints": 17
+  },
+  {
+    "precinct": 110,
+    "complaints": 7
+  },
+  {
+    "precinct": 111,
+    "complaints": 3
+  },
+  {
+    "precinct": 112,
+    "complaints": 20
+  },
+  {
+    "precinct": 113,
+    "complaints": 23
+  },
+  {
+    "precinct": 114,
+    "complaints": 30
+  },
+  {
+    "precinct": 115,
+    "complaints": 27
+  },
+  {
+    "precinct": 120,
+    "complaints": 32
+  },
+  {
+    "precinct": 121,
+    "complaints": 26
+  },
+  {
+    "precinct": 123,
+    "complaints": 6
+  }
+]
