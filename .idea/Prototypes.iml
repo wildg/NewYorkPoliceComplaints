@@ -13,5 +13,7 @@
     <orderEntry type="library" name="d3.v6" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="jquery-1.11.1" level="application" />
+    <orderEntry type="library" name="9aedab6865" level="application" />
+    <orderEntry type="library" name="d3-queue.v2" level="application" />
   </component>
 </module>
