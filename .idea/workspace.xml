@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dcc45d5-89a3-43f1-8f33-e0ac1b108235" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Prototypes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Prototypes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mapVis/AmountOfComplaintsByPrecinct.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapVis/AmountOfComplaintsByPrecinct.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mapVis/map.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapVis/map.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mapVis/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapVis/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapVis/PolicePrecincts.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapVis/generalInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapVis/generalInfo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +60,8 @@
       <workItem from="1605054528888" duration="11931000" />
       <workItem from="1605072598241" duration="51000" />
       <workItem from="1605072674845" duration="10742000" />
-      <workItem from="1605152500281" duration="41360000" />
+      <workItem from="1605152500281" duration="41659000" />
+      <workItem from="1605420722052" duration="1303000" />
     </task>
     <servers />
   </component>
@@ -80,9 +77,9 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="141" y="25" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1605046088630" />
-    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup" timestamp="1605229536312">
+    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup" timestamp="1605421469426">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1605229536312" />
+    <state x="305" y="73" width="670" height="676" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1605421469426" />
   </component>
 </project>

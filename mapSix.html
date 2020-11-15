@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Police Complaints</title>
+    <meta name="description" content="New York City police department citizen complaint data, visualized."/>
+    <link rel="icon" href="images/NYPD_Logo.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--  My stylesheet  -->
+    <link href="src/mapVis/map.css" rel="stylesheet" type="text/css">
+
+    <!--  Bootstrap  -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+          crossorigin="anonymous">
+
+    <!--	JQuery	-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+
+    <!--    D3.JS   -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <!--    My JS -->
+    <script src="src/mapVis/generalInfo.js"></script>
+    <script src="src/mapVis/mapVisualizationSix.js"></script>
+</head>
+<body>
+
+<header class="dflex-col" style="
+    position: absolute;
+    /*background-color: rgb(216, 168, 58);*/
+    background-color: #FFE330;
+    width: 450px;
+    height: 60px;">
+    <h2 style="color: rgb(30, 58, 104)">
+        NYPD Citizen Complaints
+    </h2>
+</header>
+
+<div class="dflex-col billboard-lg" id="content">
+    <svg class="map" width="1000px" height="600px">
+    </svg>
+</div>
+
+<script>
+    $.getJSON('./src/mapVis/PolicePrecincts.geojson', mapVis);
+</script>
+
+</body>
+</html>
