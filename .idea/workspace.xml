@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dcc45d5-89a3-43f1-8f33-e0ac1b108235" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mapVis/PolicePrecincts.geojson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mapVis/generalInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapVis/generalInfo.js" afterDir="false" />
-    </list>
+    <list default="true" id="8dcc45d5-89a3-43f1-8f33-e0ac1b108235" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +57,7 @@
       <workItem from="1605072598241" duration="51000" />
       <workItem from="1605072674845" duration="10742000" />
       <workItem from="1605152500281" duration="41659000" />
-      <workItem from="1605420722052" duration="1303000" />
+      <workItem from="1605420722052" duration="1541000" />
     </task>
     <servers />
   </component>
